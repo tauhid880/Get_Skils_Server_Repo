@@ -3,54 +3,63 @@
     "id": "01",
     "name": "React Master Class",
     "picture": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "duration": "1 month"
+    "duration": "1 month",
+    "title": "Take you coding to the next level with React, Redux, Routes, Node js, Express and MongoDB"
   },
   {
     "id": "02",
     "name": "AI Computing",
     "picture": "https://images.unsplash.com/photo-1639004643331-9526630beb3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=841&q=80",
-    "duration": "3 month"
+    "duration": "3 month",
+    "title": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine ..."
   },
   {
     "id": "03",
     "name": "Web Developing",
     "picture": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
-    "duration": "6 month"
+    "duration": "6 month",
+    "title": "Online courses for building websites from scratch using popular tools and languages like HTML, CSS, ... The Complete 2020 Fullstack Web Developer Course."
   },
   {
     "id": "04",
     "name": "JavaScript Scratch to Advanced",
     "picture": "https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-    "duration": "2 month"
+    "duration": "2 month",
+    "title": "A perfect JavaScript course for all those who want to learn and master JavaScript programming skills right from scratch."
   },
   {
     "id": "05",
-    "name": "Android Developing",
+    "name": "Android Development ",
     "picture": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "duration": "6 month"
+    "duration": "6 month",
+    "title": "For beginners. Start here if you are new to programming or new to Android development. These courses show you how to build Android apps using best practices ..."
   },
   {
     "id": "06",
     "name": "Web Designing",
     "picture": "https://usabilitygeek.com/wp-content/uploads/2019/02/psychology-web-design-00-lead.jpg",
-    "duration": "2 month"
+    "duration": "2 month",
+    "title": "Gain the expert level knowledge and training of web designing to start a rewarding career. Choose from a wide range of Web Design courses. Enroll now and start learning today."
   },
   {
     "id": "07",
     "name": "VUE Beginner to Pro",
     "picture": "https://i.ytimg.com/vi/DsuTwV0jwaY/maxresdefault.jpg",
-    "duration": "2 month"
+    "duration": "2 month",
+    "title": "The Vue.js Fundamentals course covers: Introduction to two-way data binding; Template syntax and expressions; Vue directives, loops and conditional rendering"
   },
   {
     "id": "08",
     "name": "Information Management",
     "picture": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "duration": "5 month"
+    "duration": "5 month",
+    "title": "Learn Information Management online at your own pace. Start today with a special offer. Join millions of learners from around the world already learning"
   },
   {
     "id": "09",
     "name": "Modern UI UX Design",
     "picture": "https://as1.ftcdn.net/v2/jpg/02/50/82/38/1000_F_250823854_bbEk9gEkmRuK7YPxPv4wjEDVKz3myHUQ.jpg",
-    "duration": "2 month"
+    "duration": "2 month",
+    "title": "Become a Certified UX/UI Professional in 25 weeks. Learn industry-grade UX design techniques to improve the user flow & experience of website."
   }
 ]
