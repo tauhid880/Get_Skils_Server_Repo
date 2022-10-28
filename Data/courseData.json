@@ -1,74 +1,74 @@
 [
   {
     "id": "01",
-    "picture": "https://ibb.co/dbzLx84",
-    "title": "Business English",
-    "duration": "38h",
+    "picture": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "title": "React Master Class",
+    "duration": "1 month",
     "Instructor_name": "Wilkerson",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "Treat this offer as a One Time Investment to all future updates This course will take you from React Novice to React intermediate advanced or Expert level with practice.  We will covering some fundamentals in the beginning but move on to applications and the cool stuff.In this course we will also code a reusable DataTable component from scratch implement drag and drop without using any third party library, create JSON based dynamic forms and much more.You will learn many fundamental aspects of React Component design and also learn how to take this approach to build any UI component that you wish.  Once you successfully complete the course you will have learned how to build a pretty advanced React component"
   },
   {
     "id": "02",
-    "picture": "https://ibb.co/yQx9CtV",
-    "title": "Social Computing",
-    "time": "23h",
+    "picture": "https://images.unsplash.com/photo-1639004643331-9526630beb3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=841&q=80",
+    "title": "AI Computing",
+    "time": "3 month",
     "Instructor_name": "Freeman",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "The Artificial Intelligence course, created in partnership with IBM, introduces students to blended learning and prepares them to be specialists in AI and Data Science. IBM, located in Armonk, New York, is a significant cognitive services and integrated cloud solution firm that provides many technology and consulting solutions. IBM invests $6 billion in research & development every year and has won five Nobel prizes, nine US National Medals of Technology, five US National Medals of Science, six Turing Awards, and ten US Inventors Hall of Fame inductions. IBM is a leader in AI and Machine Learning technology vertical for 2021. This AI course will prepare students for careers in Artificial Intelligence and Data Analytics."
   },
   {
     "id": "03",
-    "picture": "https://ibb.co/YPbXd4q",
-    "title": "Learn Spanish",
-    "time": "32h",
+    "picture": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "title": "Web Developing",
+    "time": "6 month",
     "Instructor_name": "Esperanza",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills.By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization."
   },
   {
     "id": "04",
-    "picture": "https://ibb.co/S3xD5pg",
-    "title": "Basic Marketing",
-    "time": "27h",
+    "picture": "https://images.unsplash.com/photo-1472437774355-71ab6752b434?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "title": "JavaScript Scratch to Advanced",
+    "time": "2 month",
     "Instructor_name": "Martina",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "This course introduces the programming language JavaScript and shows the websites that include the type of interactions students will eventually be able to develop.  Learners will understand the importance of how JavaScript was developed and why such history impacts the way JavaScript is currently written and in future releases.Learners will write their first scripts, have their HTML and CSS skills assessed, create variables and arrays and assign values to them.  If student’s skills are lacking, resources and recommendations are provided to improve these skills. There is ample opportunity for students to practice these first, core skills."
   },
   {
     "id": "05",
-    "picture": "https://ibb.co/FVRRf5S",
-    "title": "Android Developer",
-    "time": "34h",
+    "picture": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "title": "Android Development",
+    "time": "6 month",
     "Instructor_name": "Shaw",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "This 4 week MOOC builds upon the core Android app components and concurrency frameworks covered in Course 2 by focusing on started and bound services, local inter-process communication (IPC), and content providers. Case study apps will be examined from multiple perspectives to learn how to program these app components using Android's material design paradigm. Students will work incrementally on a hands-on project involving a material design-based RSS reader app. Each week you will add additional capabilities to the project, based on material covered in the lecture videos. You'll spend roughly 4 hours per week watching video lectures, taking quizzes, and programming assignments with Java and Android."
   },
   {
     "id": "06",
-    "picture": "https://ibb.co/4NWrHR2s",
+    "picture": "https://usabilitygeek.com/wp-content/uploads/2019/02/psychology-web-design-00-lead.jpg",
     "title": "Web Designing",
-    "time": "27h",
+    "time": "2 month",
     "Instructor_name": "Joy",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "This Specialization covers how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible. During the capstone you will develop a professional-quality web portfolio demonstrating your growth as a web developer and your knowledge of accessible web design. This will include your ability to design and implement a responsive site that utilizes tools to create a site that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments"
   },
   {
     "id": "07",
-    "picture": "https://ibb.co/rQ8w5HM",
-    "title": "Financial Modeling",
-    "time": "35h",
+    "picture": "https://i.ytimg.com/vi/DsuTwV0jwaY/maxresdefault.jpg",
+    "title": "VUE Beginner to Pro",
+    "time": "2 month",
     "Instructor_name": "Pugh",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "Vue.js is one of the most lightweight and enjoyable front-end development frameworks for building modern web applications, and there are a lot of important concepts to learn to become a skilled Vue developer. In this course, Vue.js Fundamentals, you will gain the foundational knowledge required to build robust, production-ready applications with Vue. First, you will build your own project from scratch with the Vue CLI, including creating components and manage communication between components. Then, you will learn to create routes and navigate from page to page, manage state and communicate with the server using Vuex, and create custom directives. Finally, you will deploy your application to production. When you’re finished with this course, you will have gained the fundamental skills and knowledge of Vue.js needed to create reliable and professional Vue applications"
   },
   {
     "id": "08",
-    "picture": "https://ibb.co/N9jDqBp",
-    "title": "Academic English",
-    "time": "24h",
+    "picture": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "title": "Information Management",
+    "time": "5 month",
     "Instructor_name": "Pena",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "This course provides students with an in-depth understanding of database application design and database management for large and small businesses; practical experience using formal database design methodologies in systems development; and an understanding of the technological issues of database systems in a modern IT infrastructure. The main topics include advanced SQL, database design issues, transaction management issues, .concurrency control, database performance tuning and query optimisation, database .administration and security, contemporary database applications, such as, the Internet database environment, and Business Intelligence."
   },
   {
     "id": "09",
-    "picture": "https://ibb.co/Vggy2LK",
-    "title": "Modern Psychology",
-    "time": "26h",
+    "picture": "https://as1.ftcdn.net/v2/jpg/02/50/82/38/1000_F_250823854_bbEk9gEkmRuK7YPxPv4wjEDVKz3myHUQ.jpg",
+    "title": "Modern UI UX Design",
+    "time": "2 month",
     "Instructor_name": "Whitley",
-    "details": "Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit     consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan"
+    "details": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone. In this sequence of four courses, you will summarize and demonstrate all stages of the UI/UX development process, from user research to defining a project’s strategy, scope, and information architecture, to developing sitemaps and wireframes. You’ll learn current best practices and conventions in UX design and apply them to create effective and compelling screen-based experiences for websites or apps.User interface and user experience design is a high-demand field, but the skills and knowledge you will learn in this Specialization are applicable to a wide variety of careers, from marketing to web design to human-computer interaction. "
   }
 ]

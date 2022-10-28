@@ -29,10 +29,10 @@
   },
   {
     "id": "05",
-    "name": "Android Development ",
+    "name": "Android Development",
     "picture": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "duration": "6 month",
-    "title": "For beginners. Start here if you are new to programming or new to Android development. These courses show you how to build Android apps using best practices ..."
+    "title": "This 4 week MOOC builds upon the core Android app components and concurrency frameworks covered in Course 2 by focusing on started and bound services, local inter-process communication (IPC), and content providers. Case study apps will be examined from multiple perspectives to learn how to program these app components using Android's material design paradigm. Students will work incrementally on a hands-on project involving a material design-based RSS reader app. Each week you will add additional capabilities to the project, based on material covered in the lecture videos. You'll spend roughly 4 hours per week watching video lectures, taking quizzes, and programming assignments with Java and Android."
   },
   {
     "id": "06",
